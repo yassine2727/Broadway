@@ -27,7 +27,7 @@ p {
 }
 
 
-nav{
+a {
   text-align: center;
   font-family: Helvetica;
   font-size: 18px;
@@ -52,3 +52,10 @@ nav{
    color: white;
    background-color: dimgray
    }
+
+   .footer {
+
+     font-family: Helvetica;
+     font-size: 18px;
+     color: white;
+     }
